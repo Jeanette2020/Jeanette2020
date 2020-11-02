@@ -1,6 +1,7 @@
 <h2> Hi there <img src="https://media.giphy.com/media/Wj7lNjMNDxSmc/giphy.gif" width="90" /></h2>  
 <a href="https://www.linkedin.com/in/jeanette-lucero-vivanco-cornelio-2739ba154/">
   <img align="left" alt="Jeanette's LinkdeIN" width="100px" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img align="right" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" alt="github" width="30%" height="30%">
 </a>
 <!--
 **Jeanette2020/Jeanette2020** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
