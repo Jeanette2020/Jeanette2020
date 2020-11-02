@@ -1,7 +1,9 @@
-### Hi, I'm Jeanette  👋
+### Hi there  👋 
 <a href="https://www.linkedin.com/in/jeanette-lucero-vivanco-cornelio-2739ba154/">
-  <img align="left" alt="Jeanette's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Jeanette's LinkdeIN" width="22px" src="https://mk0hootsuiteblof6bud.kinstacdn.com/wp-content/uploads/2025/05/linkedin-for-business-8-620x527.png" />
 </a>
+
+
 
 <!--
 **Jeanette2020/Jeanette2020** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
