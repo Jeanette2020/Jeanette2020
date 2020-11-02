@@ -9,8 +9,12 @@
 - 🎯 I'm interested in the intersection of data science and economy
 - 📫 How to reach me: jeanettelvc10@gmail.com
 
-
 **Languages and Tools:**
+<br />
+
+<code><img width="8%" src="https://www.stata.com/includes/images/stata-logo-blue.svg"></code>
+<code><img width="8%" src="https://rstudio.com/wp-content/uploads/2018/10/RStudio-Logo-Flat.png"></code>
+
 <!--
 * 1 version
 <a href="https://www.linkedin.com/in/jeanette-lucero-vivanco-cornelio-2739ba154/">
