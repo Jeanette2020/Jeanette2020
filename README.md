@@ -1,15 +1,16 @@
 <h2> Hi there <img src="https://media.giphy.com/media/Wj7lNjMNDxSmc/giphy.gif" width="90" /></h2>  
  <img align="right" src="https://media.giphy.com/media/3owyp2SViuDIGh8YoM/giphy.gif" alt="github" width="400" height="400">
 
-
-- 🤝 I'm currently collaborate in the project **[Manos a la data](https://github.com/manosaladata)**
-- 🎯 I'm interested in the intersection of data science and economy
-
-
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/Jeanette2020)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jeanette-lucero-vivanco-cornelio-2739ba154/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:jeanettelvc10@gmail.com)
 
+- 🤝 I'm currently collaborate in the project **[Manos a la data](https://github.com/manosaladata)**
+- 🎯 I'm interested in the intersection of data science and economy
+- 📫 How to reach me: jeanettelvc10@gmail.com
+
+
+**Languages and Tools:**
 <!--
 * 1 version
 <a href="https://www.linkedin.com/in/jeanette-lucero-vivanco-cornelio-2739ba154/">
