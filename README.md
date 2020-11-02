@@ -5,8 +5,10 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jeanette-lucero-vivanco-cornelio-2739ba154/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:jeanettelvc10@gmail.com)
 
+My name is Jeanette Vivanco and I'm an economist 
+
 - 🤝 I'm currently collaborate in the project **[Manos a la data](https://github.com/manosaladata)**
-- 🎯 I'm interested in the intersection of data science and economy
+- 🎯 I'm interested in behavioral economics, data science and OpenSource Movement.
 - 📫 How to reach me: jeanettelvc10@gmail.com
 
 **Languages and Tools:**
