@@ -1,4 +1,4 @@
-<h2> <img src="https://media.giphy.com/media/wpoLqr5FT1sY0/giphy.gif" width="70" /> Hi there  </h2>  
+<h2> <img src="https://media.giphy.com/media/Wj7lNjMNDxSmc/giphy.gif" width="70" /> Hi there  </h2>  
 <a href="https://www.linkedin.com/in/jeanette-lucero-vivanco-cornelio-2739ba154/">
   <img align="left" alt="Jeanette's LinkdeIN" width="100px" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
