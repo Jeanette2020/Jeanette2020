@@ -1,9 +1,12 @@
 <h2> Hi there <img src="https://media.giphy.com/media/Wj7lNjMNDxSmc/giphy.gif" width="90" /></h2>  
 <a href="https://www.linkedin.com/in/jeanette-lucero-vivanco-cornelio-2739ba154/">
   <img align="left" alt="Jeanette's LinkdeIN" width="100px" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  <img align="right" src="https://media.giphy.com/media/H1f1T0tKK4jEfNt6MG/giphy.gif" alt="github" width="50%" height="30%">
+  <img align="right" src="https://media.giphy.com/media/3owyp2SViuDIGh8YoM/giphy.gif" alt="github" width="50%" height="30%">
 </a>
 <!--
+* 1 version
+  <img align="right" src="https://media.giphy.com/media/H1f1T0tKK4jEfNt6MG/giphy.gif" alt="github" width="50%" height="30%">
+
 **Jeanette2020/Jeanette2020** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
