@@ -2,8 +2,8 @@
  <img align="right" src="https://media.giphy.com/media/3owyp2SViuDIGh8YoM/giphy.gif" alt="github" width="400" height="400">
 
 
-- 🔭 I'm currently collaborate in the project **[Manos a la data](https://github.com/manosaladata)**
-- 😄 I'm interested in the intersection of data science and economy
+- 🤝 I'm currently collaborate in the project **[Manos a la data](https://github.com/manosaladata)**
+- 🎯 I'm interested in the intersection of data science and economy
 
 <a href="https://www.linkedin.com/in/jeanette-lucero-vivanco-cornelio-2739ba154/">
   <img align="left" alt="Jeanette's LinkdeIN" width="100px" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
