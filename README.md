@@ -12,8 +12,8 @@
 **Languages and Tools:**
 <br />
 
-<code><img width="8%" src="https://www.stata.com/includes/images/stata-logo-blue.svg"></code>
-<code><img width="8%" src="https://rstudio.com/wp-content/uploads/2018/10/RStudio-Logo-Flat.png"></code>
+<code><img width="10%" src="https://www.stata.com/includes/images/stata-logo-blue.svg"></code>
+<code><img width="10%" src="https://rstudio.com/wp-content/uploads/2018/10/RStudio-Logo-Flat.png"></code>
 
 <!--
 * 1 version
