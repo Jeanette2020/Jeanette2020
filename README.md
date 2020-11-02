@@ -15,7 +15,7 @@ I'm an economist who is looking to contribute in the design and evaluation of pu
 <br />
 
 <code><img width="10%" src="https://www.stata.com/includes/images/stata-logo-blue.svg"></code>
-<code><img width="10%" src="https://rstudio.com/wp-content/uploads/2018/10/RStudio-Logo-Flat.png"></code>
+<code><img width="10%" src="https://d33wubrfki0l68.cloudfront.net/57299a1dcd979c623325f11bf5e5ce60f3d4eb00/e4602/wp-content/uploads/2018/10/black.png"></code>
 
 <!--
 * 1 version
